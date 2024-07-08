@@ -2101,7 +2101,7 @@ input, select, textarea {
 	}
 
 	#top {
-		padding: 10em 0 10em 0;
+		padding: 5em 0 5em 0;
 		text-align: center;
 	}
 
@@ -2204,7 +2204,7 @@ input, select, textarea {
 		/* Articles */
 
 			#top {
-				padding: 8em 0;
+				padding: 5em 0;
 			}
 
 				#top .image {
