@@ -1831,10 +1831,6 @@ input, select, textarea {
 					background-color: #C4376B;
 				}
 
-				ul.social li a.fa-linkedin-in {
-					background-color: #006599;
-				}
-
 				ul.social li a.fa-tumblr {
 					background-color: #51718A;
 				}
@@ -1843,7 +1839,7 @@ input, select, textarea {
 					background-color: #DA2713;
 				}
 
-				ul.social li a.fa-github {
+				ul.social li a {
 					background-color: #FAFAFA;
 				}
 
